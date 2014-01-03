@@ -1,0 +1,3 @@
+== Markdown Example Application
+
+See http://richonrails.com/articles/rendering-markdown-with-redcarpet for details.
